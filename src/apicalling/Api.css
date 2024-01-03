@@ -1,0 +1,14 @@
+
+.row{float: left;
+margin-left: 55px;
+height: 350px;
+margin-top: 10px;
+ }
+  
+ 
+.dav{background-color: rgb(231, 243, 243);
+height: 60px;
+
+margin-top: 20px;
+}
+.img{background-image: url(https://cdn3.vectorstock.com/i/1000x1000/20/02/background-with-gray-linear-icons-of-car-parts-vector-24072002.jpg);}
